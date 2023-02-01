@@ -1,0 +1,7 @@
+name: ArmorStandAnimator
+version: 1.0
+author: cocoraid
+main: fr.cocoraid.armorstandanimator.ArmorstandAnimator
+api-version: 1.16
+commands:
+  asa:
